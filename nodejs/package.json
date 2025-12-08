@@ -1,0 +1,23 @@
+{
+  "name": "tcp-optimization",
+  "version": "1.0.0",
+  "description": "TCP Protocol Optimization Examples in Node.js",
+  "main": "tcp_server.js",
+  "scripts": {
+    "server": "node tcp_server.js",
+    "client": "node tcp_client.js",
+    "test": "echo \"Run server and client in separate terminals\" && exit 0"
+  },
+  "keywords": [
+    "tcp",
+    "socket",
+    "optimization",
+    "networking",
+    "performance"
+  ],
+  "author": "Nhom 14",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

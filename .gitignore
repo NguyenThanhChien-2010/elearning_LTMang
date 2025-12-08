@@ -1,0 +1,51 @@
+# .gitignore for TCP Optimization Project
+
+# C++ Build artifacts
+cpp/build/
+cpp/*.exe
+cpp/*.o
+cpp/*.obj
+cpp/*.out
+cpp/*.dll
+cpp/*.so
+cpp/*.dylib
+
+# C# Build artifacts
+csharp/bin/
+csharp/obj/
+csharp/*.user
+csharp/*.suo
+
+# Java Build artifacts
+java/*.class
+java/*.jar
+
+# Python
+python/__pycache__/
+python/*.pyc
+python/*.pyo
+python/*.pyd
+python/.Python
+python/env/
+python/venv/
+
+# Node.js
+nodejs/node_modules/
+nodejs/npm-debug.log
+nodejs/yarn-error.log
+nodejs/.npm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
