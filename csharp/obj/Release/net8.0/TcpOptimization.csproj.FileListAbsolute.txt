@@ -1,0 +1,14 @@
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\bin\Release\net8.0\TcpOptimization.exe
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\bin\Release\net8.0\TcpOptimization.deps.json
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\bin\Release\net8.0\TcpOptimization.runtimeconfig.json
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\bin\Release\net8.0\TcpOptimization.dll
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\bin\Release\net8.0\TcpOptimization.pdb
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\obj\Release\net8.0\TcpOptimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\obj\Release\net8.0\TcpOptimization.AssemblyInfoInputs.cache
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\obj\Release\net8.0\TcpOptimization.AssemblyInfo.cs
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\obj\Release\net8.0\TcpOptimization.csproj.CoreCompileInputs.cache
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\obj\Release\net8.0\TcpOptimization.dll
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\obj\Release\net8.0\refint\TcpOptimization.dll
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\obj\Release\net8.0\TcpOptimization.pdb
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\obj\Release\net8.0\TcpOptimization.genruntimeconfig.cache
+C:\Users\Chien\Downloads\Nhom14-Elearning1\csharp\obj\Release\net8.0\ref\TcpOptimization.dll

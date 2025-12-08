@@ -36,8 +36,11 @@ Thumbs.db
 
 # Logs
 *.log
-logs/
 
-# Data files
-*.csv
-*.json
+# Database
+*.db
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
